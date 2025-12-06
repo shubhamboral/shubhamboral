@@ -12,7 +12,8 @@ If an idea comes to mind, I usually try to build it.
 
 #### Fun Facts:
 
-* I don’t like coffee or tea
-* Assassin's Creed is my favourite game franchise 
-* **Hobbies:** gaming, building things
+* I don’t like coffee or tea.
+* I prefer campaign-based games to multiplayer games.
+* Assassin’s Creed is my favourite game franchise.
+* **Hobbies:** gaming on PC, listening to music, and building things.
 
