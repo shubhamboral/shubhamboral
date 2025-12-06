@@ -1,20 +1,18 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamboral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamboral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-###
+I’m **Shubham**, a Computer Engineering student and developer based in India.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamboral.shubhamboral&"  />
-</div>
+I enjoy building things with code - automation, machine learning, and anything that feels interesting.  
+If an idea comes to mind, I usually try to build it.
 
-###
 
-<br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
 
-###
+---
+
+#### Fun Facts:
+
+* I don’t like coffee or tea
+* Assassin's Creed is my favourite game franchise 
+* **Hobbies:** gaming, building things
+
